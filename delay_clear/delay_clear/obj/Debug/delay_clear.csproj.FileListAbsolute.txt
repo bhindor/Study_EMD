@@ -1,0 +1,8 @@
+D:\work\delay_clear\delay_clear\bin\Debug\delay_clear.exe.config
+D:\work\delay_clear\delay_clear\bin\Debug\delay_clear.exe
+D:\work\delay_clear\delay_clear\bin\Debug\delay_clear.pdb
+D:\work\delay_clear\delay_clear\obj\Debug\delay_clear.csproj.AssemblyReference.cache
+D:\work\delay_clear\delay_clear\obj\Debug\delay_clear.csproj.SuggestedBindingRedirects.cache
+D:\work\delay_clear\delay_clear\obj\Debug\delay_clear.csproj.CoreCompileInputs.cache
+D:\work\delay_clear\delay_clear\obj\Debug\delay_clear.exe
+D:\work\delay_clear\delay_clear\obj\Debug\delay_clear.pdb
