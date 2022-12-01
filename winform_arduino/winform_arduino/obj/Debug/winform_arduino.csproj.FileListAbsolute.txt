@@ -1,0 +1,11 @@
+D:\work\winform_arduino\winform_arduino\winform_arduino\bin\Debug\winform_arduino.exe.config
+D:\work\winform_arduino\winform_arduino\winform_arduino\bin\Debug\winform_arduino.exe
+D:\work\winform_arduino\winform_arduino\winform_arduino\bin\Debug\winform_arduino.pdb
+D:\work\winform_arduino\winform_arduino\winform_arduino\obj\Debug\winform_arduino.csproj.AssemblyReference.cache
+D:\work\winform_arduino\winform_arduino\winform_arduino\obj\Debug\winform_arduino.csproj.SuggestedBindingRedirects.cache
+D:\work\winform_arduino\winform_arduino\winform_arduino\obj\Debug\winform_arduino.Form1.resources
+D:\work\winform_arduino\winform_arduino\winform_arduino\obj\Debug\winform_arduino.Properties.Resources.resources
+D:\work\winform_arduino\winform_arduino\winform_arduino\obj\Debug\winform_arduino.csproj.GenerateResource.cache
+D:\work\winform_arduino\winform_arduino\winform_arduino\obj\Debug\winform_arduino.csproj.CoreCompileInputs.cache
+D:\work\winform_arduino\winform_arduino\winform_arduino\obj\Debug\winform_arduino.exe
+D:\work\winform_arduino\winform_arduino\winform_arduino\obj\Debug\winform_arduino.pdb
